@@ -6,6 +6,7 @@
 // @include  https://*.reddit.com/*
 // @include  https://reddit.com/*
 // @grant    GM.xmlHttpRequest
+// @namespace __BASEURL__
 // ==/UserScript==
 
 let requestURL = '__BASEURL__/bulk_users';
